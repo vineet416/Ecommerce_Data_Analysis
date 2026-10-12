@@ -5,7 +5,7 @@ Results are pulled into pandas and charted with Matplotlib/Seaborn. It covers cu
 
 ## Project Files
 
-| File | Description |
+| File | Description | 
 |---|---|
 | `Ecommerce_csv_to_sql.ipynb` / `.pdf` | Loads the 7 CSVs into MySQL tables (dynamic `CREATE TABLE` + row inserts) |
 | `python+sql_ecommerce.ipynb` / `.pdf` | 15 SQL queries run from Python, with outputs and charts |
