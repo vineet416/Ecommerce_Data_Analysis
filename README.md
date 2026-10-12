@@ -4,7 +4,7 @@ Loads a seven-table Brazilian e-commerce dataset into MySQL with Python, then an
 Results are pulled into pandas and charted with Matplotlib/Seaborn. It covers customers, orders, categories, sellers and sales trends.
 
 ## Project Files
-
+ 
 | File | Description | 
 |---|---|
 | `Ecommerce_csv_to_sql.ipynb` / `.pdf` | Loads the 7 CSVs into MySQL tables (dynamic `CREATE TABLE` + row inserts) |
